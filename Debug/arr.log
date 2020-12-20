@@ -1,0 +1,4 @@
+﻿  arr.cpp
+C:\Users\polly\source\repos\arr\arr\arr.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\polly\source\repos\arr\arr\arr.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  arr.vcxproj -> C:\Users\polly\source\repos\arr\Debug\arr.exe
